@@ -8,7 +8,7 @@ cask "tackit" do
   desc "Blazing-fast, keyboard-driven sticky notes for macOS"
   homepage "https://github.com/Nigui/tackit"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Tackit.app"
 
