@@ -1,6 +1,6 @@
 cask "tackit" do
-  version "0.0.1-pre"
-  sha256 "4ee38951777bc5cd61f2776f78791cdb04491bf783358a20981178e47cc34306"
+  version "0.1.0"
+  sha256 "6876adff5df5ee1cd6fa9d06847437f3f9a48a916ef38a34699a27da3695f8c1"
 
   url "https://github.com/Nigui/tackit/releases/download/v#{version}/Tackit.dmg",
       verified: "github.com/Nigui/tackit/"
